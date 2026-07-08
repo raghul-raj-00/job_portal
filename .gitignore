@@ -24,5 +24,6 @@ Thumbs.db
 .idea/
 
 #unwanted folders
-backend/settings.py
+backend/.env
+
 .history/
